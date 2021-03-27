@@ -1,0 +1,387 @@
+,created_at,text,Subjectivity,Polarity,Sentiment
+0,Fri Apr 03 08:30:02 +0000 2015,berita Kepada Dinas kesehatan Kota Pekanbaru Helda S Munir mengaku tidak bisa berbuat banyak terkait keberadaan ,0.2,0.2,Positive
+1,Mon Sep 09 04:02:35 +0000 2019,"Kabut asap sangat pekat menyelimuti Kota Pekanbaru. Kabut asap ini sangat mengganggu pernafasan, karena udara sudahÃ¢Â€Â¦ ",0.80875,-0.45500000000000007,Negative
+2,Wed Jan 10 11:09:08 +0000 2018, 3 Dokter RSUD Pekanbaru jadi Tersangka: Kabarriau com Pekanbaru amp nbsp Kepolisian Resor KÃ¢Â€Â¦ ,0.0,0.0,Neutral
+3,Mon Apr 29 15:07:27 +0000 2013,"Dokter gigi yg bagus dan murah di kota pekanbaru dimana yah, info donk  _DURI",0.65,0.55,Positive
+4,Sun Oct 02 12:30:38 +0000 2016,"PEKANBARU - Capaian indeks pembangunan manusia (IPM) tahun 2015 Kota Pekanbaru sebesar 79,32. Angka tersebut ... ",0.1,0.0,Neutral
+5,Tue Mar 11 23:06:35 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+6,Fri Apr 22 18:42:38 +0000 2016,Pemko Pekanbaru Miliki Puskesmas Wisata:  PEKANBARU - Pemerintah Kota Pekanbaru di bawah kepemimpinan Walikot... ,0.0,0.0,Neutral
+7,Tue Mar 11 21:57:36 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+8,Mon Feb 10 03:35:05 +0000 2014,"Antisipasi Kabut Asap, Dinkes Pekanbaru Bagikan 3.500 Masker: DINKES Kota Pekanbaru membagikan sekitar 3.500 m... ",0.0,0.0,Neutral
+9,Mon Jul 15 08:49:37 +0000 2019,10 Penyakit Yang Diakibatkan Gaya Hidup Tak Sehat ,0.7,-0.4,Negative
+10,Wed Feb 04 13:21:11 +0000 2015,"Dinas Kesehatan Kota Pekanbaru, Provinsi Riau,  mengatakan pola hidup yang tidak sehat serta suka mengkonsumsi... ",0.7,-0.4,Negative
+11,Thu May 31 19:48:32 +0000 2018,"Vidio: Penyakit Kota Pekanbaru Metropolitan Madani,  Hujan Sebentar Banjir, Warga: Bagai Mana mau Riau Madani ",0.0,0.0,Neutral
+12,Fri Mar 24 04:16:07 +0000 2017,Realisasi Fisik RSUD Pekanbaru Sudah Capai 80 Persen: Bangunan Fisik Rumah Sakit Umum Daerah (RSUD) Kota PekanbaruÃ¢Â€Â¦ ,0.2619047619047619,0.016666666666666673,Positive
+13,Fri Oct 23 04:11:46 +0000 2015,Posko Evakuasi Balita di Tiga Puskesmas: Pemerintah Kota Pekanbaru kembali mengaktifkan posko evakuasi Balita ... ,0.0,0.0,Neutral
+14,Thu Apr 12 10:09:32 +0000 2018,Begini Cara Dinas Kesehatan Kota Pekanbaru Tangani Kasus Gizi Buruk  ,0.0,0.0,Neutral
+15,Sun Apr 29 14:05:03 +0000 2018,"Jadi Salah Satu Penyakit Mematikan di Indonesia, Prodia Ajak Para Wanita di Kota Pekanbaru Lawan Kanker ServiksÃ¢Â€Â¦ ",0.625,0.125,Positive
+16,Thu Nov 20 13:31:53 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+17,Sat Sep 14 09:05:20 +0000 2019,UPDATE INFO KABUT ASAP RIAU Sejak mulai kamis (12/9) perhitungan ISPU di dua alat di titik Tenayan Raya dan PusatÃ¢Â€Â¦ ,0.1,0.0,Neutral
+18,Tue Jan 30 17:02:15 +0000 2018,Foging Bukan Solusi Kurangi Populasi Nyamuk DBD: Dinas Kesehatan (Diskes) Kota Pekanbaru mengatakan foging bukanlahÃ¢Â€Â¦ ,0.0,0.0,Neutral
+19,Thu Jul 14 17:38:00 +0000 2016,Cerita nya keliling kota pekanbaru Ã³Â¾ÂŒÂ³Ã³Â¾ÂÂ—Ã³Â¾ÂÂ—Ã³Â¾Â°Â™ W/t  calon ibu bidanÃ³Â¾ÂŒÂ³,0.0,0.0,Neutral
+20,Wed Oct 04 16:33:05 +0000 2017,WaspadaÃ¢Â€Â¦ Rupanya Masih Banyak Obat dan Kosmetik Ilegal Dijual di Kota Pekanbaru  ,0.5,0.0,Neutral
+21,Wed Apr 06 03:17:09 +0000 2016,Sebanyak 45 Peserta Ikuti Seleksi Kepala Puskesmas di Kota Pekanbaru  ,0.75,0.0,Neutral
+22,Tue Dec 24 05:20:25 +0000 2013,"Cc :  ""_Pekanbaru: Adit, Bocah Korban Penganiayaan Juga Alami Kekurangan Gizi  - GoRiaudotcom""",0.05,-0.07500000000000001,Negative
+23,Tue Sep 24 02:32:41 +0000 2019,Relawan MDMC Kota Pekanbaru salurakan masker n95 ke posko Rumah Evakuasi Korban Bencana Asap di Klinik Pratama UMRIÃ¢Â€Â¦ ,0.5,0.4,Positive
+24,Tue Apr 24 11:11:58 +0000 2018,RSUD Tengku Rafian Siak Menuju Akreditasi SNARS  ,0.0,0.0,Neutral
+25,Wed Feb 06 12:18:42 +0000 2013,"_Pekanbaru mlm2 cari cemilan sehat enaknya ke susu kdle segar alami sbrng plz.telkom sudirman,ditunggu y tweepss..",0.6,0.47500000000000003,Positive
+26,Fri Aug 30 08:51:35 +0000 2013,"Cuaca Di Pekanbaru Tidak Sehat Akibat Kabut Asap: Pekanbaru, Riau Kualitas udara di kota Pekanbaru, Riau semak... ",0.5375,-0.2625,Negative
+27,Tue Mar 11 23:01:08 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Biasa (KLB) yang warganya...",1.0,0.3333333333333333,Positive
+28,Thu Oct 01 02:36:35 +0000 2020," Hai Sahabat. dapat kami informasikan untuk Kota Pekanbaru, Sahabat dapat menukarkan vouchernya di LaÃ¢Â€Â¦ ",0.0,0.0,Neutral
+29,Thu May 21 05:55:13 +0000 2015,"Perawat bukan dirumah sakit atau klinik, dialam juga. Temanya merawat alam hari ni  perumahan,pemukiman dan cipta karya kota pekanbaru",0.0,0.0,Neutral
+30,Sat Oct 12 10:40:53 +0000 2013,"RTRW Kota Pekanbaru Belum Disahkan, Pembangunan Pesat Terus:  Riau Pos Online-Pembangunan bidan...  (Via Riaupos)",0.0,0.0,Neutral
+31,Mon Nov 16 07:49:40 +0000 2015,"Diskes Pekanbaru Diminta Aktif Cegah DBD: Peralihan musim seperti yang terjadi di Kota Pekanbaru saat ini, san... ",0.55,-0.06666666666666667,Negative
+32,Wed Feb 25 01:30:05 +0000 2015,TuitPekanbaru Wali Kota Pekanbaru Belum Ada Nyatakan KLB Demam Berdarah Pekanbaru Tuit,0.0,0.0,Neutral
+33,Fri Aug 30 08:23:35 +0000 2013,"Cuaca Di Pekanbaru Tidak Sehat Akibat Kabut Asap: Pekanbaru, Riau Kualitas udara di kota Pekanbaru, Riau semak... ",0.4375,-0.1875,Negative
+34,Sat Feb 27 05:02:16 +0000 2016,KabarPP Jalan Sehat Jelang Musyda Ke-11 Muhammadiyah dan 'Aisyiyah Kota Pekanbaru ,0.5,0.5,Positive
+35,Mon Feb 06 17:52:22 +0000 2017,"Data Resmi Puskesmas di Kota Pekanbaru Provinsi Riau Republik Indonesia, Lengkap dan Reliable ",0.4,0.1,Positive
+36,Wed Sep 16 13:28:33 +0000 2015,"Di saatÃ‚Â  warga banyak yang sakit, eh Wali Kota Pekanbaru, Firdaus MT tetap melanjutkan kunker ke Tiongkok. ",0.6785714285714286,-0.10714285714285715,Negative
+37,Fri Feb 03 08:11:00 +0000 2017,"Data Resmi Puskesmas di Kota Pekanbaru Provinsi Riau Republik Indonesia, Lengkap dan Reliable ",0.4,0.1,Positive
+38,Tue Apr 16 01:30:22 +0000 2019,"Sebanyak dua pasien yang dirawat di Rumah Sakit Jiwa Tampan, Kota Pekanbaru, Riau, sudah mengantongi undangan untukÃ¢Â€Â¦ ",0.475,-0.05,Negative
+39,Wed Sep 17 10:18:19 +0000 2014,"Sama kyk Payakumbuh""_TV: Udara Kota Pekanbaru tak Sehat via _tv ",0.4125,-0.2,Negative
+40,Mon Dec 07 15:20:26 +0000 2015,"berita Kelurahan Simpang Tiga, Kecamatan Bukit Raya mewakili kota Pekanbaru di Lomba Pola Hidup Bersih Sehat ... ",0.6000000000000001,0.43333333333333335,Positive
+41,Fri Jul 10 18:35:30 +0000 2015,Udara Kota Pekanbaru Mulai Tidak Sehat akibat Kabut Asap  ,0.5375,-0.2625,Negative
+42,Tue Jan 30 06:22:24 +0000 2018,Agen Jual Obat Telat Bulan Cytotec Di Kota Pekanbaru || 081227677373 || Agen Jual Obat Penggugur Kandungan Di AreaÃ¢Â€Â¦ ,0.6,-0.3,Negative
+43,Wed Jul 20 10:03:43 +0000 2016,"Mau sehat ? gampang dan praktis bisa dilakukan dirumah bersama ""Nikita Jogging"" cc _Pekanbaru ",0.6666666666666667,0.4666666666666667,Positive
+44,Fri Jan 26 10:46:56 +0000 2018,"Walikota Pekanbaru DR.H.Firdaus,ST,MT Soft Opening RSUD Kota Pekanbaru ",0.35,0.1,Positive
+45,Thu Nov 20 13:39:19 +0000 2014,"Feito_Tuta_Bueno'Ã¢Â™Â¥] Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Pr...  Ã¢Â™Â¦Ã¢Â™Â¥",0.0,0.0,Neutral
+46,Sun Oct 02 14:00:09 +0000 2016,  Kepala BPMKB Kota Pekanbaru Legalkan Pungutan di Posyandu ,0.0,0.0,Neutral
+47,Tue Jun 12 01:27:07 +0000 2018,Dinas Kesehatan Kota Pekanbaru menerbitkan kebijakan operasional Pusat Kesehatan Masyarakat (Puskesmas) selama 24 jÃ¢Â€Â¦ ,0.08333333333333334,-0.05,Negative
+48,Sun Dec 11 03:09:55 +0000 2016,"Selamat hari minggu ma, pa. Sehat terus ya inong among.Ã¢Â€Â¦ (w/ Mama &amp; Papa at Gereja HKBP Kota Pekanbaru) [pic] Ã¢Â€Â” ",0.8,0.75,Positive
+49,Mon Apr 30 05:22:31 +0000 2018,"Jadi Salah Satu Penyakit Mematikan di Indonesia, Prodia Ajak Para Wanita di Kota Pekanbaru ... ",0.625,0.125,Positive
+50,Fri Apr 28 17:48:06 +0000 2017,Penderita DBD di Kota Pekanbaru Terus Meningkat  ,0.0,0.0,Neutral
+51,Thu Jun 30 14:19:38 +0000 2016,"Klaim Diskes Pekanbaru, Vaksin di 20 Puskesmas Kota Pekanbaru Aman Alias Tak Ada Yang Palsu ",0.75,0.0,Neutral
+52,Thu Oct 08 01:19:45 +0000 2015,asap !! senam jalan terooooos biar sehatÃ°ÂŸÂ™Â†Ã°ÂŸÂ˜Â”Ã°ÂŸÂ˜Âª (at Kantor Dinas Pendapatan Daerah Kota Pekanbaru) [pic] Ã¢Â€Â” ,0.3,1.0,Positive
+53,Mon Sep 26 07:28:46 +0000 2016,"Dokter Gigi Gadungan jadi Tersangka Tunggal, Polisi Selidiki Praktik Dokter Ilegal Lainnya di Kota Pekanbaru ",0.53125,-0.28125,Negative
+54,Sat Nov 23 04:16:55 +0000 2013,Dinas terakhir Ã°ÂŸÂ’ÂƒÃ°ÂŸÂ™Â†Ã°ÂŸÂ˜Â˜ (at Puskesmas Limapuluh Kota Pekanbaru) Ã¢Â€Â” ,0.06666666666666667,0.0,Neutral
+55,Tue Sep 03 16:00:18 +0000 2013,Opp yaa sehat yaa :) : _hidayat: Nikmati kerja malam di ujung kota pekanbaru,0.6666666666666666,0.4666666666666666,Positive
+56,Tue Sep 17 00:41:12 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+57,Mon Jan 13 22:51:33 +0000 2020,Mohon konfirmasi BPJS di RS Jiwa di kota Pekanbaru untuk pengobatan jalan dllnya..dipungut bayaran Info dr RS..BPJSÃ¢Â€Â¦ ,0.2,-0.1,Negative
+58,Fri Feb 19 09:08:19 +0000 2016,Wali Kota Pekanbaru: Status Kejadian Luar Biasa Demam Berdarah Belum Bisa Ditetapkan ,0.0,0.0,Neutral
+59,Thu Aug 14 03:22:02 +0000 2014,Sakit loh Ã°ÂŸÂ˜Â‚Ã°ÂŸÂ˜Â‚Ã°ÂŸÂ˜Â‚ (at PM MUTU Kota Pekanbaru ) [pic] Ã¢Â€Â” ,0.8571428571428571,-0.7142857142857143,Negative
+60,Fri Apr 03 08:30:06 +0000 2015,"Tak Ada Anggaran, 10 Mobil Ambulance Rusak Mangkrak di Dinkes Pekanbaru: Kepada Dinas kesehatan Kota Pekanbaru... ",0.0,0.0,Neutral
+61,Tue Mar 11 21:56:20 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+62,Fri Feb 19 08:01:49 +0000 2016,Wako Pekanbaru Minta Jalankan Program 3 M untuk Atasi DBD: Wali Kota Pekanbaru DR Firdaus MT mengingatkan masy... ,0.06666666666666667,0.0,Neutral
+63,Mon Jul 04 09:38:42 +0000 2016,"Selama Lebaran, RS dan Puskesmas Harus Standby 24 Jam: Puskesmas dan rumah sakit di Kota Pekanbaru, tetap mem... ",0.0,0.0,Neutral
+64,Fri Oct 24 09:26:03 +0000 2014,"TuitPekanbaru 'Riau Punya 2 Ribu Dokter, Tapi Bertumpuk di Pusat Kota' Pekanbaru Tuit",0.1,-0.1,Negative
+65,Thu Jan 03 00:13:01 +0000 2019,Pembunuhan Sadis di Siak Dipicu Sakit Hati Hanya Dibantu Rp 5 Juta untuk Nikah -  ,1.0,0.0,Neutral
+66,Sat May 02 02:02:35 +0000 2015,"Selamat ulang tahun Pak _stmt Smg panjang umur, sehat sll &amp; memimpin kota Pekanbaru dg baik.",0.6333333333333333,0.4166666666666667,Positive
+67,Mon Sep 21 00:12:47 +0000 2020,"Pasien Covid-19 Terus Bertambah, RS di Pekanbaru Kewalahan Obat dan Ruangan Penuh Rumah sakit rujukan penangananÃ¢Â€Â¦ ",0.55,0.35,Positive
+68,Sun Dec 20 14:20:46 +0000 2020,"Ã°ÂŸÂ™Â""Ahmad S Udi, salah satu penyintas covid-19 dari kota Pekanbaru,Ã‚Â Riau.",0.0,0.0,Neutral
+69,Fri Feb 09 08:35:12 +0000 2018,Pemerintah Kota Pekanbaru Berhasil Bangun lalu Resmikan Rumah Sakit Daerah untuk Warganya; Ibarat Mimpi Jadi Nyata ,0.8,0.55,Positive
+70,Sun Oct 02 12:53:48 +0000 2016,"(TribunPekanbaru ) Warga Keluhkan Pungutan di Posyandu, Ini Tanggapan Kadiskes Kota Pekanbaru  BeritaRiau",0.0,0.0,Neutral
+71,Wed Sep 26 04:45:20 +0000 2018,Penjual Obat Peninggi Badan Di Kota Pekanbaru Ã¢Â€Â“Ã‚Â Riau  ,0.0,0.0,Neutral
+72,Thu Dec 19 01:21:14 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+73,Wed Dec 20 03:27:42 +0000 2017,Pelayanan RSUD Klas C Takkan Maksimal DPRD:  - Anggota DPRD Kota Pekanbaru Herwan NasriÃ¢Â€Â¦Ã¢Â€Â¦ ,0.0,0.0,Neutral
+74,Sat Aug 31 10:19:22 +0000 2019,Penghentian kala itu merujuk pada penetapan status siaga darurat kabut asap di Kota Pekanbaru. CFD saat kabut asapÃ¢Â€Â¦ ,0.0,0.0,Neutral
+75,Sun Oct 02 13:01:39 +0000 2016,"Warga Keluhkan Pungutan di Posyandu, Ini Tanggapan Kadiskes Kota Pekanbaru  (TribunPekanbaru)",0.0,0.0,Neutral
+76,Sun Mar 09 03:16:26 +0000 2014,"Udara Pekanbaru sangat tidak sehat akibat asap: Kualitas udara di Kota Pekanbaru kini dalam status ""Sangat ...  RT",0.4583333333333333,-0.10833333333333334,Negative
+77,Wed Aug 07 03:42:42 +0000 2019,PEKANBARU (HR)- Dinas Kesehatan Kota Pekanbaru menginstruksikan kepada pihak Puskesmas agar memaksimalkan layanan tÃ¢Â€Â¦ ,0.0,0.0,Neutral
+78,Thu Nov 20 13:34:58 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+79,Wed Sep 11 01:33:10 +0000 2019,"Sejak Juli hingga September 2019, kebakaran hutan dan lahan masih terjadi di Provinsi Riau. Kualitas udara di KotaÃ¢Â€Â¦ ",0.0,0.0,Neutral
+80,Tue Apr 24 09:32:33 +0000 2018,RSUD Tengku Rafian Siak Menuju Akreditasi SNARS  ,0.0,0.0,Neutral
+81,Mon Jul 07 01:01:57 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+82,Sun Jan 19 01:21:14 +0000 2014,"RSJ Pekanbaru Siapkan Belasan Kamar Tampung Caleg Depresi: Rumah Sakit Jiwa (RSJ) Tampan di Kota Pekanbaru, Ri... ",0.6,0.2,Positive
+83,Wed Sep 17 13:58:03 +0000 2014,Udara Kota Pekanbaru tak Sehat via _tv ,0.7,-0.4,Negative
+84,Thu Nov 20 15:00:05 +0000 2014,"berita Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagakan seluruh puskesmas setempat untuk meng... ",0.0,0.0,Neutral
+85,Fri Oct 11 00:38:34 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+86,Wed Nov 06 05:57:04 +0000 2019,50 Persen Lebih Peserta Mandiri di Kuansing Menunggak Bayar BPJS Kesehatan ,0.3125,0.25,Positive
+87,Fri Jul 18 08:37:29 +0000 2014,Keluarga besar 50 (at Puskesmas Limapuluh Kota Pekanbaru) [pic] Ã¢Â€Â” ,0.42857142857142855,0.21428571428571427,Positive
+88,Tue Jan 27 15:04:15 +0000 2015,"Pertama di Riau, Wali Kota Pekanbaru Launching Puskesmas se-Pekanbaru Resmi Gunakan Pola BLUD Melayani Pasien 24 Jam ",0.3333333333333333,0.25,Positive
+89,Sun Feb 28 20:18:43 +0000 2016,"Pemko Lelang Jabatan Kapus, Dewan: Jangan Ada Dokter Impor: PEKANBARU-Kebijakan Pemerintah Kota Pekanbaru memb... ",0.0,0.0,Neutral
+90,Thu Nov 20 13:50:52 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagakan seluruh puskesmas se...",0.0,0.0,Neutral
+91,Thu May 10 12:32:00 +0000 2018,"Laki-laki Dominan Terserang DBD di Pekanbaru, Terbanyak Anak Usia Hingga 9 Tahun: Laki-laki mendominasi terserang pÃ¢Â€Â¦ ",0.45,0.2,Positive
+92,Fri Aug 10 08:57:02 +0000 2018,Begini Kronologi Penangkapan Pelaku Pemerkosaan Bidan Desa di Ukui ,0.0,-0.05,Negative
+93,Mon Feb 10 03:16:16 +0000 2014,Dinkes Pekanbaru Bagikan Ribuan Masker:  PEKANBARU -- Dinas Kesehatan Kota Pekanbaru mem... ,0.0,0.0,Neutral
+94,Sat Oct 10 13:26:24 +0000 2015,"Indikator PM-10 di kota pekanbaru naik lagi jd 259.34 di level 'sangat tidak sehat'.. pdhl seharian td mulai menipis, akt. wrga sdh normal",0.692,-0.034000000000000016,Negative
+95,Fri Aug 30 08:47:30 +0000 2013,"Cuaca Di Pekanbaru Tidak Sehat Akibat Kabut Asap: Pekanbaru, Riau Kualitas udara di kota Pekanbaru, Riau semak... ",0.5375,-0.2625,Negative
+96,Fri Mar 07 14:00:40 +0000 2014,"Cowonya sakit jiwa -__-"" _Pekanbaru: Mahasiswi Ini Babak Belur Dipukul Pacar Pakai Senapan Angin  - TribunNews",0.8333333333333333,-0.5999999999999999,Negative
+97,Wed Jul 18 15:57:39 +0000 2018,Dalam rangka HUT IBI ke 67Ã°ÂŸÂŽÂ‰  Pc Ikatan Bidan Indonesia (IBI) kota pekanbaruÃ°ÂŸÂ‘Â©Ã°ÂŸÂÂ»Ã¢Â€ÂÃ¢ÂšÂ•Ã¯Â¸Âharapan kami semoga urusan dalam meÃ¢Â€Â¦ ,0.0,0.0,Neutral
+98,Sun Jun 11 11:00:08 +0000 2017,BPJS Ketenagakerjaan Kota Pekanbaru Bersama PKPU HI Riau Ajak Anak Yatim Belanja di Transmart ,0.0,0.0,Neutral
+99,Mon Nov 09 03:23:03 +0000 2015, halo kak ayu... Pa kbr? Moga sehat selalu y kak... Kpn nich main ke kota pekanbaru? Ã°ÂŸÂ˜ÂŠ,0.5,0.5,Positive
+100,Thu Nov 07 01:00:55 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+101,Tue Aug 20 01:35:12 +0000 2019,Assalamualaikum Gaaeeesss??? Bismillah… Direntalkan Mobil Tahun Tinggi dan Bebas Penyakit!!! Bagi teman sejawat dÃ¢Â€Â¦ ,0.6699999999999999,0.470625,Positive
+102,Mon Mar 24 00:45:36 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+103,Thu May 22 01:00:52 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+104,Fri Jun 21 01:15:18 +0000 2013,"_Pekanbaru kabut asap, kualitas udara ga sehat",0.7,-0.4,Negative
+105,Tue Apr 04 00:50:39 +0000 2017,"Promosi Doktor, Kemenag Kota Pekanbaru Syukuran  ",0.0,0.0,Neutral
+106,Sat Sep 21 14:50:43 +0000 2019,Kualiatas udara kota pekanbaru update pukul 21.45 dalam level SANGAT TIDAK SEHAT menuju BERBAHAYA Ã°ÂŸÂ˜Â¢Ã°ÂŸÂ˜Â¢ Tetap semangatÃ¢Â€Â¦ ,0.905,-0.56,Negative
+107,Fri Nov 13 16:34:58 +0000 2020,Rumah Sakit apung (RSA) Nusa Waluya II milik lembaga nirlaba Doctor Share memilih untuk segera meninggalkan Kota PeÃ¢Â€Â¦ ,0.0,0.0,Neutral
+108,Tue Mar 11 22:24:11 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+109,Sat May 18 09:19:38 +0000 2019,"Sehat terus bapak. Alhamdulillah, semoga aktivitasnya di kota Pekanbaru berjalan dengan baik dan lancar. Aamiin Ã°ÂŸÂ˜ÂŠ ",0.5,0.45,Positive
+110,Mon Feb 24 00:51:18 +0000 2014,"Anak sekolah diliburkan,libur juga ah (at Puskesmas Limapuluh Kota Pekanbaru) Ã¢Â€Â” ",0.1,-0.1,Negative
+111,Fri Jan 23 09:23:25 +0000 2015,Puskesmas 24 Jam di Kota Pekanbaru Dinilai Belum Siap ,0.3,-0.1,Negative
+112,Thu Nov 20 13:32:47 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+113,Sat Sep 27 20:28:21 +0000 2014,RSUD Kota Pekanbaru Belum Ada  OpiniRiau,0.4,-0.2,Negative
+114,Tue Nov 27 05:54:16 +0000 2018,I've just posted a new blog: Bidan Desa Bernama Christina Simamora Hadiri Seminar Bertaraf Internasional Di Kota PeÃ¢Â€Â¦ ,0.22727272727272727,0.06818181818181818,Positive
+115,Wed Sep 21 10:23:34 +0000 2016,"Ditanya soal DBD, Kadiskes Kota Pekanbaru Malah ""Ngacir""  Riau ",0.0,0.0,Neutral
+116,Fri Apr 26 10:28:09 +0000 2019," Angga Maulana (10 tahun), anak yatim piatu menderita sakit pembengkakan jantung.  Saat ini tinggal denganÃ¢Â€Â¦ ",0.4,0.0,Neutral
+117,Tue Aug 28 02:11:04 +0000 2018,30 Persen Rumah Sakit di Riau Belum Miliki Layanan BPJS Kesehatan ,0.0,0.0,Neutral
+118,Thu Nov 20 13:28:48 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyia...  RT",0.0,-0.2,Negative
+119,Wed Mar 13 15:21:06 +0000 2019," saya bangga dengan jadi warga riau &amp; kota Pekanbaru khusus nya, semoga kemenangan nantinya kita bisa pÃ¢Â€Â¦ ",0.43333333333333335,0.44166666666666665,Positive
+120,Mon Jan 30 22:48:29 +0000 2017,"Data Resmi Puskesmas di Kota Pekanbaru Provinsi Riau Republik Indonesia, Lengkap dan Reliable ",0.4,0.1,Positive
+121,Tue Jun 23 07:54:33 +0000 2020,"Bendahara Camat Bukit Raya Positif Corona, Wali Kota Pekanbaru Perintahkan Dinkes Rapid Test Kepala BPKAD dan PegawÃ¢Â€Â¦ ",0.5454545454545454,0.22727272727272727,Positive
+122,Fri Apr 05 03:26:47 +0000 2019,Inilah kepolosan dari Pasien Gangguan Jiwa saat ikut simulasi Pemilu ,0.2,-0.1,Negative
+123,Fri Feb 09 06:34:10 +0000 2018,Pemerintah Kota Pekanbaru Berhasil Bangun lalu Resmikan Rumah Sakit Daerah untuk Warganya; Ibarat Mimpi Jadi Nyata ,0.8,0.55,Positive
+124,Tue Apr 05 05:57:53 +0000 2016,"PPNI KOTA PEKANBARU GELAR KEGIATAN SEMINAR KESEHATAN: Pekanbaru, PPNI (Persatuan Perawat Nasional Indonesia) k... ",0.0,0.0,Neutral
+125,Wed Oct 07 09:17:01 +0000 2015,Realisasi Pembangunan Fisik RSUD Kota Pekanbaru Capai 60 Persen ,0.14285714285714285,0.0,Neutral
+126,Fri Sep 13 06:07:27 +0000 2019,"Gak muluk2, aku hanya minta doa dari kalian para mutualku supaya kota2 yang sedang dilanda kabut asap terutama kotaÃ¢Â€Â¦ ",1.0,0.0,Neutral
+127,Tue Mar 14 22:47:09 +0000 2017,"Korban DBD di Kota Pekanbaru Terus Berjatuhan, Jumlahnya Kian Bertambah Dari Pekan ke Pekan  ",0.0,0.0,Neutral
+128,Mon Jul 15 04:19:21 +0000 2019,TIM RESCUER Kota Pekanbaru Evakuasi pohon tumbang di dua titik (Hotel Arya Duta &amp; RSUD AA ) akibat cuaca extrime miÃ¢Â€Â¦ ,0.6875,-0.125,Negative
+129,Sat May 18 09:19:38 +0000 2019,"Sehat terus bapak. Alhamdulillah, semoga aktivitasnya di kota Pekanbaru berjalan dengan baik dan lancar. Aamiin Ã°ÂŸÂ˜ÂŠ ",0.5,0.45,Positive
+130,Fri Aug 30 08:52:23 +0000 2013,"Cuaca Di Pekanbaru Tidak Sehat Akibat Kabut Asap: Pekanbaru, Riau Kualitas udara di kota Pekanbaru, Riau semak... ",0.5375,-0.2625,Negative
+131,Sun Mar 09 03:19:22 +0000 2014,Udara Pekanbaru sangat tidak sehat akibat asap: Kualitas udara di Kota Pekanbaru kini dalam status...  Antara News,0.6425,-0.3225,Negative
+132,Thu Nov 20 13:39:21 +0000 2014,"Feito_Tuta_Bueno'Ã¢Â™Â¥] Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Pr...  Ã¢Â™Â¦Ã¢Â™Â¥",0.0,0.0,Neutral
+133,Sun Oct 13 05:06:15 +0000 2019,"Apakah ini tanda-tanda Politik tak sehat di Riau? Memperebutkan kue kekuasaan, bukan apa diberikan ke wakilnya...",0.7,-0.4,Negative
+134,Thu Mar 26 04:57:08 +0000 2020,"Feito_Tuta_Bueno'Ã¢Â™Â¥] Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Pr...  Ã¢Â™Â¦Ã¢Â™Â¥",0.0,0.0,Neutral
+135,Mon Aug 28 05:06:33 +0000 2017,"Alhamdulillah, Rp 11 Juta Biaya Pengobatan Alhafizi Ditanggung Jamkesda: RSUD Arifin Achmad Pekanbaru menyatakanÃ¢Â€Â¦ ",0.0,0.0,Neutral
+136,Fri Feb 09 11:18:09 +0000 2018,"Ibarat Mimpi Jadi Nyata, Kota Pekanbaru Akhirnya Mempunyai Rumah Sakit Daerah Ã¢Â€ÂMadaniÃ¢Â€Â ",0.825,0.175,Positive
+137,Wed Sep 17 08:32:57 +0000 2014,Udara Kota Pekanbaru takÃ‚Â Sehat ,0.5,-0.25,Negative
+138,Thu Feb 08 19:09:36 +0000 2018,Setelah Belasan Tahun Akhirnya Kota Pekanbaru Miliki Rumah Sakit  ,1.0,0.0,Neutral
+139,Sat Dec 31 04:31:28 +0000 2016,Biaya Sekolah Tinggi dan Maraknya DBD: Dunia pendidikan di Kota Pekanbaru selama 2016 masihÃ¢Â€Â¦  riaupos riau,0.5399999999999999,0.16,Positive
+140,Mon Dec 28 16:25:33 +0000 2015,Jumlah Penderita DBD di Kota Pekanbaru Meningkat Dibandingkan Tahun 2014 Lalu ,0.0,0.0,Neutral
+141,Fri Feb 09 08:09:46 +0000 2018,Akhirnya Kota Pekanbaru Bisa Membangun Rumah Sakit  ,1.0,0.0,Neutral
+142,Sun Mar 09 03:17:18 +0000 2014,"Udara Pekanbaru sangat tidak sehat akibat asap: Kualitas udara di Kota Pekanbaru kini dalam status ""Sangat Tid... ",0.5583333333333332,-0.215,Negative
+143,Mon Jan 11 16:26:06 +0000 2016,Sudah 36 Korban DBD se-Kota Pekanbaru  RIAU,0.0,0.0,Neutral
+144,Tue Apr 24 06:21:28 +0000 2018,RSUD Tengku Rafian Siak Menuju Akreditasi SNARS  ,0.0,0.0,Neutral
+145,Thu Jun 02 12:16:36 +0000 2016,Pembangunan RSUD Kota Pekanbaru Terkendala Anggaran  Ã¢Â€Â¢ Riau Pos,0.0,0.0,Neutral
+146,Tue Jul 28 07:08:06 +0000 2015,"Perhatian-perhatian, Udara Kota Pekanbaru dalam Level Tidak Sehat  ",0.7,-0.4,Negative
+147,Tue Mar 11 23:05:29 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+148,Thu Feb 08 19:09:36 +0000 2018,Setelah Belasan Tahun Akhirnya Kota Pekanbaru Miliki Rumah Sakit  ,1.0,0.0,Neutral
+149,Mon Oct 01 12:01:17 +0000 2018,"Lazismu Pekanbaru menerima bantuan kursi roda dari Ikatan Dokter Indonesia, Persatuan Dokter Umum Indonesia, dan KPÃ¢Â€Â¦ ",0.5,0.05000000000000002,Positive
+150,Wed Sep 17 08:26:47 +0000 2014, OKSIGEN tercemar partikel debu dan mengakibatkan banyak warga terserang penyakit infeksi salu...  *intrns,0.5,0.5,Positive
+151,Tue Sep 10 01:12:13 +0000 2019,"Asap makin pekat di kota Pekanbaru, kepala sakit, tenggorokan kering dan gatal, mata merah, nafas sesak ",0.3,-0.033333333333333326,Negative
+152,Thu Mar 29 03:31:50 +0000 2018,Penyerahan cinderamata dari Plt. Ka. Dinkes Kota Pekanbaru kepada Sekdin  usai diskusi dan tanya jawaÃ¢Â€Â¦ ,0.0,0.0,Neutral
+153,Fri Jul 22 02:38:13 +0000 2016,"Mau sehat ? gampang dan praktis bisa dilakukan dirumah bersama ""Nikita Jogging"" cc _Pekanbaru ",0.6666666666666667,0.4666666666666667,Positive
+154,Mon Jul 21 06:16:11 +0000 2014,LPSE Pekanbaru Ã¢Â€Â“ SDP LKPP untuk LPSE Kota Pekanbaru: Pembangunan IPAL Puskesmas BAK equalisasi dan bangunanÃ¢Â€Â¦ ,0.0,0.0,Neutral
+155,Wed Mar 19 01:24:08 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+156,Thu Nov 20 13:38:08 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+157,Thu Sep 19 06:54:02 +0000 2019,Korban Asap Karhutla Dirawat di RSUD Petala Bumi Kota Pekanbaru ,0.0,0.0,Neutral
+158,Thu Apr 10 00:44:26 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+159,Tue Jul 15 00:57:03 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+160,Sun Oct 02 14:05:16 +0000 2016,"(TribunPekanbaru ) Kepala BPMKB Kota Pekanbaru Legalkan Pungutan di Posyandu, Ini Alasannya  BeritaRiau",0.0,0.0,Neutral
+161,Thu Dec 19 04:28:14 +0000 2013,"Kaporisasi (with Desni, tri, and 4 others at Puskesmas Limapuluh Kota Pekanbaru) Ã¢Â€Â” ",0.0,0.0,Neutral
+162,Fri Jun 20 05:17:34 +0000 2014,Dinas Pendidikan Kota Pekanbaru Pinta Masyarakat dapat bersaing secara sehat. ,0.5,0.5,Positive
+163,Fri Oct 05 20:22:37 +0000 2018,"Aplikasi Halodoc Kini Bisa Dinikmati di Kota Pekanbaru, Cara Mudah Menebus Obat Pasien  ",0.7666666666666666,0.4666666666666667,Positive
+164,Fri Jul 18 07:42:46 +0000 2014,Tempat I'tikaf Kota Pekanbaru: Masjid RSUD Arifin Achmad Jl.Diponegoro,0.0,0.0,Neutral
+165,Thu Mar 08 14:38:30 +0000 2018,Pemerintah Kota Pekanbaru ,0.0,0.0,Neutral
+166,Thu Oct 09 19:12:52 +0000 2014,Apotik Sumber Sehat Lpse KotaÃ‚Â Pekanbaru ,0.0,0.0,Neutral
+167,Mon Apr 07 00:49:45 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+168,Mon Jan 08 16:11:52 +0000 2018,"Percepatan Administrasi, Walikota Segera Tunjuk Dirut RSUD Kota Pekanbaru ",0.0,0.0,Neutral
+169,Mon Apr 30 07:20:28 +0000 2018,Masih menanti disini... Melalui suatu proses yang panjang. . .  KonsulPekanBaru Ã¢Â€Â” at RSUD Aripin Ahmad Kota PekanÃ¢Â€Â¦ ,0.4,-0.05,Negative
+170,Wed Sep 12 04:21:03 +0000 2018,"Lebih dari 100 Orang Terpapar Campak Rubella, Dinkes Riau: Dapat Dicegah ",0.5,0.5,Positive
+171,Wed Aug 14 12:40:00 +0000 2019,"10. Penyakit ISPA juga menyerang warga di Kota Pekanbaru, Provinsi Riau. Dinkes Kota Pekanbaru telah menginstruksikÃ¢Â€Â¦ ",0.0,0.0,Neutral
+172,Thu Nov 20 14:15:12 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+173,Fri Oct 19 13:09:13 +0000 2018,"Dibandingkan Penduduk Asli, Warga Luar Pekanbaru Lebih Banyak Terjaring Razia Pekat: Selama menggelar razia penyakiÃ¢Â€Â¦ ",0.5166666666666667,0.2333333333333333,Positive
+174,Tue Mar 11 08:48:51 +0000 2014,INDEK STANDAR PENCEMARAN UDARA (ISPU) KOTA PEKANBARU 241 (SANGAT TIDAK SEHAT),0.45499999999999996,-0.26,Negative
+175,Tue Jun 23 08:38:09 +0000 2020,Wali Kota Pekanbaru Ungkap Seorang Dokter di Puskesmas Rumbai Positif Corona  ,0.5454545454545454,0.22727272727272727,Positive
+176,Sun Jan 19 01:20:29 +0000 2014,"RSJ Pekanbaru Siapkan Belasan Kamar Tampung Caleg Depresi: Rumah Sakit Jiwa (RSJ) Tampan di Kota Pekanbaru, Ri... ",0.6,0.2,Positive
+177,Sun Mar 09 03:17:49 +0000 2014,"Udara Pekanbaru sangat tidak sehat akibat asap: Kualitas udara di Kota Pekanbaru kini dalam status ""Sangat Tid... ",0.5583333333333332,-0.215,Negative
+178,Thu Jan 25 17:06:37 +0000 2018,"Punya 13 Layanan, Besok, RSUD Pekanbaru Di-Soft Lounching Wali Kota Pekanbaru  ",0.35,0.1,Positive
+179,Sun Mar 09 03:16:30 +0000 2014,"Udara Pekanbaru sangat tidak sehat akibat asap: Kualitas udara di Kota Pekanbaru kini dalam status ""Sangat Tid... ",0.5583333333333332,-0.215,Negative
+180,Tue Jan 30 06:22:24 +0000 2018,Agen Jual Obat Telat Bulan Cytotec Di Kota Pekanbaru || 081227677373 || Agen Jual Obat Penggugur Kandungan Di AreaÃ¢Â€Â¦ ,0.6,-0.3,Negative
+181,Mon Sep 26 07:57:34 +0000 2016,"Dokter Gigi Gadungan jadi Tersangka Tunggal, Polisi Selidiki Praktik Dokter Ilegal Lainnya di Kota Pekanbaru... ",0.53125,-0.28125,Negative
+182,Mon Dec 02 01:14:36 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+183,Sat Aug 10 13:26:32 +0000 2019,"Kabut Asap Karhutla Meningkat, Kualitas Udara Kota Pekanbaru di Level Kurang Sehat  .. GoRiau",0.7,-0.4,Negative
+184,Wed Aug 05 06:25:32 +0000 2020,"Pasien Positif Corona Diisolasi di Rusunawa Rejosari, Wali Kota Pekanbaru: OTG Tak Bisa Dirawat di Rumah SakitÃ¢Â€Â¦ ",0.5454545454545454,0.22727272727272727,Positive
+185,Thu Feb 18 04:14:04 +0000 2016,Pembangunan RSUD Kota Pekanbaru Sudah 40 Persen ,0.0,0.0,Neutral
+186,Tue Jan 31 13:10:18 +0000 2017,Tahun 2017 Pembangunan Fisik RSUD Kota Pekanbaru Selesai ,0.14285714285714285,0.0,Neutral
+187,Mon Dec 07 05:12:14 +0000 2015,PNS Dinkes Kota Pekanbaru Lebam dan Memar Dihajar OTK  (TribunPekanbaru),0.0,0.0,Neutral
+188,Tue Feb 18 09:50:45 +0000 2014,Kualitas Udara Kota Pekanbaru Tidak Sehat  RiauIndonesia,0.7,-0.4,Negative
+189,Wed Sep 25 02:25:36 +0000 2019,Pemerintah Kota Pekanbaru mengeluarkan dispensasi bagi aparatur sipil negara (ASN) hamil tidak masuk ke kantor aliaÃ¢Â€Â¦ ,0.5,0.3333333333333333,Positive
+190,Sat Aug 04 09:23:09 +0000 2018,"Bagi SobatRistekdikti yg ada di sekitar Kota Pekanbaru, Riau. Yuk ikuti Jalan Sehat dalam rangka menyambut Hari KeÃ¢Â€Â¦ ",0.7,0.65,Positive
+191,Tue Mar 11 22:14:37 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+192,Sun Aug 05 03:16:48 +0000 2018,Hakteknas di Riau dgn door prize Alhamdulillah penerima hadiahnya ternyata ada tak seperti 2 Minggu lalu yg jalan sÃ¢Â€Â¦ ,0.6,0.0,Neutral
+193,Thu Apr 04 11:50:32 +0000 2019,Dinas Sosial Akan Perbaiki Data 300 Ribu Peserta Yang Tak Terlayani BPJS ,0.06666666666666667,0.03333333333333333,Positive
+194,Fri Sep 20 06:33:11 +0000 2019,Pantauan kualitas udara kota pekanbaru siang ini masuk dalam kategori TIDAK SEHAT.  Kondisi kualitas udara siang inÃ¢Â€Â¦ ,0.7,-0.4,Negative
+195,Fri Feb 09 07:06:04 +0000 2018,Kota Pekanbaru Akhirnya Mempunyai Rumah Sakit Daerah Ã¢Â€ÂMadaniÃ¢Â€Â Ibarat Mimpi Jadi Nyata ,0.825,0.175,Positive
+196,Sun Mar 09 03:34:42 +0000 2014,"Kualitas udara di Kota Pekanbaru kini dalam status ""Sangat Tidak Sehat"" akibat polusi asap kebakaran hutan dan... ",0.6425,-0.3225,Negative
+197,Wed Sep 25 03:29:34 +0000 2013, di klinik dr kandungan di kota pekanbaru. Biayanya cm 125 ribu (dokter plus usg),0.0,0.0,Neutral
+198,Mon Sep 16 09:44:23 +0000 2019,"Sebanyak 14 rumah singgah disiagakan di Kota Pekanbaru, Riau, untuk menampung korban kabut asap. Warga mendatangi rÃ¢Â€Â¦ ",0.75,0.0,Neutral
+199,Fri Jan 26 09:47:13 +0000 2018,Firdaus Resmikan RSUD Madani Kota Pekanbaru  ,0.0,0.0,Neutral
+200,Tue Mar 11 21:55:03 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+201,Wed Jan 10 13:36:47 +0000 2018,Akankah Tim Dokter dan KPU Riau memeriksa Pasangan Calon  hingga ke darah dan rambut? Pilgubri2018 ,0.2888888888888889,-0.15555555555555559,Negative
+202,Tue Apr 16 07:47:53 +0000 2019,"Hari ini, bertempat di Dinas Pertanian Dan Perikanan Kota Pekanbaru ada Pertemuan KESMAVET, yakni Kegiatan PemelihaÃ¢Â€Â¦ ",0.0,0.0,Neutral
+203,Mon Feb 10 16:45:26 +0000 2020,Ã¢Â€ÂœAgen Jual Obat Kuat Viagra USA Di Pekanbaru 081226621415 Kota Pekanbaru | Viagra Asli USA Obat KuatÃ¢Â€Â¦Ã¢Â€Â by KamasutraÃ¢Â€Â¦ ,0.7388888888888889,0.4138888888888889,Positive
+204,Wed Mar 12 02:37:45 +0000 2014,"Tambah libur dong..."": Haha berita kabut asap ditvone kata pak dokter aja menyarankan tinggalkan kota pekanbaru dan kurangi",0.3,0.2,Positive
+205,Fri Jul 31 16:56:51 +0000 2015,Wako Cek Ketersediaan Obat: PEKANBARU  Riauindikator    Wali Kota Pekanbaru Firdaus melakukan p...  riauindikator,0.0,0.0,Neutral
+206,Mon Feb 29 08:14:04 +0000 2016,BNN Pekanbaru Sosialiasi Hidup Sehat Tanpa Narkoba di CFD: Badan Narkotika Nasional (BNN) Kota Pekanbaru genca... ,0.5,0.5,Positive
+207,Tue Feb 10 18:47:01 +0000 2015,Kota Pekanbaru akan Segera Berlakukan Status KLB DBD ,0.0,0.0,Neutral
+208,Sun Mar 09 03:22:51 +0000 2014,"NewsUpdate Udara Pekanbaru sangat tidak sehat akibat asap - Kualitas udara di Kota Pekanbaru kini dalam status ""S... ",0.6425,-0.3225,Negative
+209,Fri May 30 00:48:25 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+210,Thu Nov 20 13:33:00 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagakan seluruh puskesmas se...",0.0,0.0,Neutral
+211,Wed Nov 16 23:50:10 +0000 2016,Makanan kampung yang jarang kira rasa di Kota Pekanbaru. Ayam kampung yang tentu lebih sehat yaa tweeps hehe ,0.8071428571428573,-0.02857142857142857,Negative
+212,Thu Jan 03 00:13:03 +0000 2019,Pembunuhan Sadis di Siak Dipicu Sakit Hati Hanya Dibantu Rp 5 Juta untuk Nikah -  ,1.0,0.0,Neutral
+213,Sun Sep 20 11:11:02 +0000 2015,_dahlan   _Pekanbaru apa khabar pak semoga sehat selalu,0.5,0.5,Positive
+214,Thu Mar 24 14:37:08 +0000 2016,"Di Pekanbaru 313 orang terjangkit DBD sejak awal 2016: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau mengungka... ",0.3,0.1,Positive
+215,Tue Feb 28 07:45:41 +0000 2017,Tahun Depan RSUD Kota Pekanbaru Rekrut Tenaga Medis  Ã¢Â€Â¢ Hallo Riau,0.0,0.0,Neutral
+216,Tue Feb 18 19:32:00 +0000 2014,Waduh! Kualitas Udara Kota Pekanbaru Tidak Sehat ,0.7,-0.4,Negative
+217,Thu Nov 20 13:51:34 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+218,Fri Jul 15 09:27:08 +0000 2016,Wali Kota Pekanbaru Minta Pelayanan Rumah Sakit Lebih Ditingkatkan  Riau ,0.5,0.5,Positive
+219,Mon Feb 09 06:56:07 +0000 2015,Walikota Pekabaru Hadiri Pengobatan Gratis BPJS Dalam Rangka Peringatan Bulan K3N Kota Pekanbaru 2015 ,0.4,0.2,Positive
+220,Wed Oct 04 16:55:07 +0000 2017,WaspadaÃ¢Â€Â¦ Rupanya Masih Banyak Obat dan Kosmetik Ilegal Dijual di Kota Pekanbaru  ,0.5,0.0,Neutral
+221,Fri Feb 09 04:13:05 +0000 2018,"Besok, Walikota Soft Launching RSUD Madani Kota Pekanbaru  ",0.35,0.1,Positive
+222,Wed Jun 17 07:14:13 +0000 2015,Kota Pekanbaru Paling Banyak Terjangkit Penyakit Kelamin  - GagasanRiau,0.5,0.5,Positive
+223,Fri Jan 03 04:29:03 +0000 2020,"Rumah Sakit Jiwa (RSJ) Tampan di Kota Pekanbaru, Riau, dihebohkan dengan ditemukannya seorang pasien tewas diduga gÃ¢Â€Â¦ ",0.4666666666666666,-0.3333333333333333,Negative
+224,Thu Jun 19 14:05:53 +0000 2014,LPSE Pekanbaru Ã¢Â€Â“ Contoh Proposal Pengadaan Barang Kantor untuk LPSE Kota Pekanbaru: Rehab berat puskesmas senapelanÃ¢Â€Â¦ ,0.5,-0.2,Negative
+225,Fri Jan 11 19:40:37 +0000 2013,Mengundang penyakit datang mendiami diri di pinggir sebuah jalan Kota Pekanbaru kota kenangan,0.5,0.13636363636363635,Positive
+226,Fri Feb 07 02:40:08 +0000 2014,Dinkes Riau Bagikan 10 ribu Masker di Kota Pekanbaru ,0.0,0.0,Neutral
+227,Tue Jan 09 07:14:06 +0000 2018,Tes Kesehatan Paslon Pilkada Riau Bakal Lebih Detail: Tes kesehatan nantinya akan bekerja sama dengan Rumah Sakit UÃ¢Â€Â¦ ,0.3125,0.225,Positive
+228,Tue Sep 10 01:12:13 +0000 2019,"Asap makin pekat di kota Pekanbaru, kepala sakit, tenggorokan kering dan gatal, mata merah, nafas sesak ",0.3,-0.033333333333333326,Negative
+229,Wed Feb 12 00:51:53 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+230,Sat Apr 27 09:01:03 +0000 2019,"HUT ke-55 Tahun, Rutan Bagansiapiapi dan Puskesmas MoU Penanganan HIV/Aids dan TB  ",0.0,0.0,Neutral
+231,Tue Jun 16 04:57:29 +0000 2020,Dinas Kesehatan (Dinkes) Kota Pekanbaru akan menggelar tes swab (pemeriksaan lendir pada saluran pernafasan) orangÃ¢Â€Â¦ ,0.0,0.0,Neutral
+232,Fri Jan 16 01:50:25 +0000 2015,RSUD Kota Pekanbaru Mulai Dibangun ,0.0,0.0,Neutral
+233,Thu Apr 11 06:36:11 +0000 2019,"Alhamdulillah, kantin Ponpes Dar El Hikmah meraih Juara 2, perlombaan Kantin Sehat sekota Pekanbaru yang digagas olÃ¢Â€Â¦ ",0.0,0.0,Neutral
+234,Tue Feb 18 09:51:49 +0000 2014,Kualitas Udara Kota Pekanbaru Tidak Sehat  (RiauPos),0.7,-0.4,Negative
+235,Tue Dec 29 12:09:11 +0000 2015,Kota Pekanbaru Masih Minim Posyandu  RiauPos,0.0,0.0,Neutral
+236,Sun Oct 02 12:53:49 +0000 2016,"Warga Keluhkan Pungutan di Posyandu, Ini Tanggapan Kadiskes Kota Pekanbaru: Dia mengaku akan mengecek kebenar... ",0.0,0.0,Neutral
+237,Thu Feb 08 16:25:58 +0000 2018,"Dibawah Kepemimpinan DR.H.Firdaus,ST,MT, Kota Pekanbaru Berhasil Membangun Rumah Sakit ",0.95,0.75,Positive
+238,Fri Nov 01 00:46:00 +0000 2013,Bismillah dinas hari ke tiga Ã°ÂŸÂ’ÂŠÃ°ÂŸÂ’Â‰Ã°ÂŸÂ˜Â· (at Puskesmas Limapuluh Kota Pekanbaru) Ã¢Â€Â” ,0.0,0.0,Neutral
+239,Sat Sep 28 12:52:08 +0000 2013, Info donk Penerimaan Cpns Formasi Bidan Di Kota Pekanbaru Berapa orang yang diterima ???,0.5,0.5,Positive
+240,Mon Feb 29 08:14:10 +0000 2016,berita Badan Narkotika Nasional (BNN) Kota Pekanbaru gencar melakukan sosialiasi bahaya penyalagunaan narkoba... ,0.0,0.0,Neutral
+241,Sun May 17 03:12:02 +0000 2015,"Baru 50 Persen Puskesmas 24 Jam Beroperasi penuh: PEKANBARU,SeRiau Ã¢Â€Â“ Dinas Kesehatan Kota Pekanbaru, mengungka... ",1.0,0.0,Neutral
+242,Thu Nov 20 13:32:14 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+243,Fri Mar 10 02:08:12 +0000 2017,Bidan Desa Ditandu Sejauh 8 KM Usai Melahirkan di Tengah Longsor Limapuluh Kota  | PekanBaruÃ¢Â€Â¦ ,0.0,0.0,Neutral
+244,Fri Feb 09 13:12:16 +0000 2018,"Ibarat Mimpi Jadi Nyata, Wali Kota Pekanbaru Resmikan Rumah Sakit Daerah yang Kehadirannya Telah Sekian Lama DinantÃ¢Â€Â¦ ",0.525,0.15,Positive
+245,Sun Mar 09 03:16:51 +0000 2014,"Udara Pekanbaru sangat tidak sehat akibat asap: Kualitas udara di Kota Pekanbaru kini dalam status ""Sangat Tid... ",0.5583333333333332,-0.215,Negative
+246,Tue Apr 11 08:36:19 +0000 2017,Gubri: Bidan Jadi Ujung Tombak Program KB  | PekanBaru Riau ,0.0,0.0,Neutral
+247,Thu Jan 09 00:36:02 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+248,Thu Nov 20 13:31:12 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+249,Fri Apr 28 17:48:10 +0000 2017,Penderita DBD di Kota Pekanbaru Terus Meningkat  ,0.0,0.0,Neutral
+250,Mon Oct 01 07:50:25 +0000 2018,"21 Puskesmas Kota Pekanbaru Terima Dana BOK Capai Rp 9,4 M Dari Pusat - Detik News Ocean (DNO): Your Latest InformaÃ¢Â€Â¦ ",0.5,0.2,Positive
+251,Thu Nov 20 11:54:05 +0000 2014,"Puskesmas Pekanbaru Siaga Banjir: PEKANBARU,SeRiau Ã¢Â€Â“ Dinas Kesehatan Kota Pekanbaru, menyiagakan seluruh puske... ",0.0,0.0,Neutral
+252,Tue Feb 13 21:27:06 +0000 2018,Akhirnya Kota Pekanbaru Punya Rumah Sakit 'Sendiri' ,1.0,0.3,Positive
+253,Wed Apr 10 06:36:02 +0000 2019,APOTIK DE NATURE HERBAL: Alamat Apotik Jual Obat Sipilis Di Kota Pekanbaru ,0.0,0.0,Neutral
+254,Tue Aug 20 16:03:35 +0000 2013,"Hahaha "": Macem Tukang kusuk bah. ProfesionlÃ¢Â€Âœ: Info rumah sakit yang professional di kota pekanbaru donk..""",0.25,0.15000000000000002,Positive
+255,Tue Aug 14 14:42:23 +0000 2018,"Manfaatkan Fasilitas, Rumah Sakit Daerah Kota Pekanbaru Siap LayaniÃ‚Â Masyarakat beritaPKU  ",0.5,0.2,Positive
+256,Sat May 30 22:36:34 +0000 2015,"Sumber from IG Sehat_ok... and happy Sunday yang lagi Diet.. khaputtry , aku menyusul. @ Kota Pekanbaru ",1.0,0.8,Positive
+257,Thu Mar 09 09:00:41 +0000 2017,Mengkhawatirkan!! Kasus DBD di Pekanbaru Terus Meningkat: Kasus Demam Berdarah Dengue (DBD) di Kota PekanbaruÃ¢Â€Â¦ ,0.0,0.0,Neutral
+258,Wed Sep 17 02:59:29 +0000 2014,BEMUINAWARDS Berita Terkini Hari Ini: ISPU Kota Pekanbaru Tidak Sehat: Berita terbaru Kota Pekan...  IBFUINSUSKA,0.8333333333333334,0.19999999999999998,Positive
+259,Fri Feb 16 14:27:11 +0000 2018,"Novrianti, Tetap Semangat Keliling Jualan Makanan di Atas Kursi Roda: kaki sebelah kanannya terpaksa diamputasi karÃ¢Â€Â¦ ",0.5357142857142857,0.2857142857142857,Positive
+260,Sat Jun 02 19:20:48 +0000 2018,"Salinan dari Terobosan Walikota Firdaus, Puskesmas Wisata di Kota Pekanbaru Riau:  melalui ",0.0,0.0,Neutral
+261,Wed Nov 22 16:16:24 +0000 2017,Pembangunan fisik RSUD Pekanbaru butuh Rp21 miliar lagi ,0.14285714285714285,0.0,Neutral
+262,Mon Sep 28 05:19:09 +0000 2015,"_Pekanbaru PKU 12.00 WIB Visibility 1.200 Mtr , 12.00 WIB Konsentrasi Partikulat 173,29 Tidak Sehat MelawanAsap",0.7,-0.4,Negative
+263,Wed Oct 04 16:33:05 +0000 2017,WaspadaÃ¢Â€Â¦ Rupanya Masih Banyak Obat dan Kosmetik Ilegal Dijual di Kota Pekanbaru  ,0.5,0.0,Neutral
+264,Tue Nov 13 02:37:04 +0000 2018,"Keluarga Tak Izinkan Mayat Dokter yang Ditemukan Tersangkut di Jembatan Jondul Diotopsi: Senin pagi tadi, 12 NovembÃ¢Â€Â¦ ",0.0,-0.2,Negative
+265,Fri Sep 07 01:27:56 +0000 2018,Bersama Tim Dokter IDI Kota Pekanbaru… semarakqurbanmelebung qurbanbersamauntuksesamaÃ¢Â€Â¦ ,0.0,0.0,Neutral
+266,Tue Apr 24 05:50:29 +0000 2018,RSUD Tengku Rafian Siak Menuju Akreditasi SNARS  ,0.0,0.0,Neutral
+267,Sat Aug 10 21:26:34 +0000 2019,Dinkes Perintahkan Puskesmas Siapkan Ambulance di Lokasi Salat Ied  ,0.0,0.0,Neutral
+268,Mon Feb 22 01:17:08 +0000 2016,GwsmaaÃ°ÂŸÂ˜Â¢ (with MamaÃ°ÂŸÂ‘Â± at RSUD kota Pekanbaru) Ã¢Â€Â” ,0.0,0.0,Neutral
+269,Tue Sep 10 00:59:39 +0000 2013,"Pagiiiiiii!!! (with Vinka, Ratna, and 10 others at Puskesmas Limapuluh Kota Pekanbaru) [pic] Ã¢Â€Â” ",0.0,0.0,Neutral
+270,Wed Jun 26 04:03:22 +0000 2019,Kecamatan Tampan Juara 1 Lomba PHBS dan Juara III Posyandu Tingkat Kota Pekanbaru ,0.0,0.0,Neutral
+271,Wed Mar 12 05:23:59 +0000 2014,"Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Biasa (KLB) yang warganya diserang... ",1.0,0.3333333333333333,Positive
+272,Wed Apr 15 11:00:00 +0000 2020,"Namanya Eko Chandra. Berprofesi sebagai perawat di salah satu rumah sakit swasta di Kota Pekanbaru, Riau. TugasnyaÃ¢Â€Â¦ ",0.375,0.0,Neutral
+273,Thu May 10 12:31:58 +0000 2018,"Selama April, 28 Orang di Pekanbaru Terserang DBD, 1 Meninggal Dunia: Selama bulan April 2018, Dinas Kesehatan (DisÃ¢Â€Â¦ ",0.0,0.0,Neutral
+274,Fri Aug 16 13:08:16 +0000 2019,Puluhan balita di Pekanbaru mulai terserang penyakit Inspeksi Saluran Pernapasan Akut (ISPA) akibat kabut asap dariÃ¢Â€Â¦ ,0.6375,0.2375,Positive
+275,Fri Dec 06 00:54:01 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+276,Mon Jun 29 02:19:32 +0000 2020,  Hasil Swab 50 Tenaga Kesehatan Puskesmas Rumbai Negatif Covid-19: Hasil swab 50 orang tenaÃ¢Â€Â¦ ,0.4,-0.3,Negative
+277,Sun Oct 02 14:05:43 +0000 2016,"Kepala BPMKB Kota Pekanbaru Legalkan Pungutan di Posyandu, Ini Alasannya ",0.0,0.0,Neutral
+278,Thu Oct 20 10:34:13 +0000 2016,"Komisi Penanggulangan Acquired Immune Deficiency Syndrome (AIDS) Kota Pekanbaru, Provinsi Riau men...  infogelap",0.0,0.0,Neutral
+279,Thu Nov 20 13:37:15 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+280,Tue Mar 11 21:56:59 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+281,Thu May 10 12:32:00 +0000 2018,"Laki-laki Dominan Terserang DBD di Pekanbaru, Terbanyak Anak Usia Hingga 9 Tahun: Laki-laki mendominasi terserang pÃ¢Â€Â¦ ",0.45,0.2,Positive
+282,Thu Nov 20 13:34:33 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+283,Sun Oct 18 12:10:26 +0000 2015,"Pekanbaru Bangun Puskesmas Wisata: PEKANBARU,SeRiau Ã¢Â€Â“ Pemerintah. Kota Pekanbaru, Provinsi Riau membangun Pusa... ",0.0,0.0,Neutral
+284,Tue Nov 13 02:37:04 +0000 2018,"Keluarga Tak Izinkan Mayat Dokter yang Ditemukan Tersangkut di Jembatan Jondul Diotopsi: Senin pagi tadi, 12 NovembÃ¢Â€Â¦ ",0.0,-0.2,Negative
+285,Fri Aug 30 08:47:05 +0000 2013,"Cuaca Di Pekanbaru Tidak Sehat Akibat Kabut Asap: Pekanbaru, Riau Kualitas udara di kota Pekanbaru, Riau semak... ",0.4375,-0.1875,Negative
+286,Tue Feb 26 08:15:42 +0000 2019,DBD Masih Pegang Rekor Penyakit Terbanyak Diderita Di Kota Pekanbaru ,0.5,0.5,Positive
+287,Sun Apr 20 08:15:50 +0000 2014,selamat datang di kota pekanbaru ya dokter   :),0.95,0.65,Positive
+288,Mon Jun 19 05:23:08 +0000 2017,"Dinkes Riau Siagakan Ratusan Tenaga Medis di Jalur Mudik: Dinkes Riau menurunkan satu dokter, dua perawat dan satuÃ¢Â€Â¦Ã¢Â€Â¦ ",0.0,0.0,Neutral
+289,Tue Jan 30 06:42:22 +0000 2018,Klinik Jual Asli Obat Telat Bulan Cytotec Di Pekanbaru || 081227677373 || klinik Jual Obat Telat Bulan Di Kota PekaÃ¢Â€Â¦ ,0.65,-0.075,Negative
+290,Wed Feb 25 01:29:13 +0000 2015,Wali Kota Pekanbaru Belum Ada Nyatakan KLB Demam Berdarah ,0.0,0.0,Neutral
+291,Wed Mar 13 06:53:39 +0000 2019,"Selamat datang bpk Prabowo Subianto di kota Pekanbaru, kota bertuah, kota yg mayoritas akal sehatÃ¢Â€Â¦ ",0.7999999999999999,0.3333333333333333,Positive
+292,Sun Jan 19 01:15:16 +0000 2014,"Rumah Sakit Jiwa (RSJ) Tampan di Kota Pekanbaru, Riau, menyiapkan belasan kamar khusus untuk melayani pasien y... ",0.3857142857142857,0.12857142857142856,Positive
+293,Thu Nov 20 11:54:04 +0000 2014,"Puskesmas Pekanbaru Siaga Banjir: PEKANBARU,SeRiau Ã¢Â€Â“ Dinas Kesehatan Kota Pekanbaru, menyiagakan seluruh puske... ",0.0,0.0,Neutral
+294,Mon Nov 04 04:06:40 +0000 2013,"2. Sebagai ""Masy. Asli Kota "" Masy.  mengeluhkan layanan RSUD yang tidak maksimal.",0.2,-0.3,Negative
+295,Fri May 01 15:23:57 +0000 2020,Info PKU Daftar Nomor Telepon Rumah Sakit Rujukan Penanggulangan Covid-19Ã¢Â€Â¦ ,0.0,0.0,Neutral
+296,Thu Nov 20 13:37:13 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+297,Tue Sep 17 08:29:20 +0000 2019,"Tanpa pakai masker, Presiden  meninjau langsung lokasi kartuhla di Kota Pekanbaru, Riau. Pekan ini, IndeksÃ¢Â€Â¦ ",0.4,0.1,Positive
+298,Wed Sep 17 08:30:24 +0000 2014,Udara Kota Pekanbaru tak Sehat ,0.7,-0.4,Negative
+299,Fri Apr 22 02:55:54 +0000 2016,Repost rslancangkuning Ã£ÂƒÂ»Ã£ÂƒÂ»Ã£ÂƒÂ» Visitasi BNN kota Pekanbaru ke Rumah Sakit Lancang Kuning pkucakep ,0.0,0.0,Neutral
+300,Thu Nov 20 13:50:38 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+301,Sun Aug 11 07:25:02 +0000 2019," Kalau Razia Kebun Sawit Gubri Terlaksana, Hampir Semua Perusahaan Sawit di Riau ""Terlibat"":Ã¢Â€Â¦ ",0.0,0.0,Neutral
+302,Mon Jul 13 01:56:31 +0000 2020,"Bisa bertahan hidup saja, sudah bagus di masa pandemi Covid19 seperti sekarang ini...",0.6125,0.6,Positive
+303,Wed Sep 17 09:50:09 +0000 2014,"BNPB Pekanbaru: ""7 daerah Riau ini udaranya TIDAK SEHAT: Kec. Rumbai, Kota Pekanbaru, Duri Field, Bangko, Petapahan, Libo dan Duri Camp""",0.5,-0.25,Negative
+304,Thu Jun 11 14:54:19 +0000 2020,Presentasi obat obat hematologi pada penanganan kasus bedah vaskuler  hari ini oleh dr muda FK UR ...masih on lineÃ¢Â€Â¦ ,0.4,0.1,Positive
+305,Tue Mar 11 23:02:46 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+306,Thu Jun 08 10:25:31 +0000 2017,Kasus DBD di Kota Pekanbaru terus bertambah. ,0.0,0.0,Neutral
+307,Wed Jan 17 07:10:27 +0000 2018,"Ada yang pensiun, ada yang tersandung kasus hukum, ada juga yang sakit. Mereka tersebut kita ganti, biar jalan rodaÃ¢Â€Â¦ ",0.5285714285714286,-0.2571428571428571,Negative
+308,Mon Sep 02 01:49:28 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+309,Fri Jul 11 01:11:27 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+310,Mon Apr 03 04:26:15 +0000 2017,"186 Korban Demam Berdarah, Diskes Pekanbaru Belum Tetapkan KLB: Dinas Kesehatan (Diskes) Kota PekanbaruÃ¢Â€Â¦  berita",0.0,0.0,Neutral
+311,Thu Jun 02 12:23:30 +0000 2016,Berita Pembangunan RSUD Kota Pekanbaru Terkendala Anggaran  HalamanRiau,0.0,0.0,Neutral
+312,Sun Aug 25 16:31:32 +0000 2019,"Meski Kabut Asap, Masyarakat Tetap Semangat Ikuti Jalan Sehat: Meski kabut asap masih menyelimuti Kota Pekanbaru, tÃ¢Â€Â¦ ",0.7,0.55,Positive
+313,Thu Apr 02 07:58:33 +0000 2020,"Tinjau Pelaksanaan Rapid Test di Puskesmas Kota Pekanbaru, Syamsuar: Jangan Cemas Berlebihan  ",0.15000000000000002,0.05,Positive
+314,Thu Apr 04 02:36:54 +0000 2019,DPT Pemilu Presiden dan legislatif Kota Pekanbaru tercatat 515.589 pemilih. Sesuai putusan terakhir Mahkamah KonstiÃ¢Â€Â¦ ,1.0,0.0,Neutral
+315,Tue Feb 02 02:49:54 +0000 2016,"Sakit, Kepala BPKAD Kota Pekanbaru mengundurkan diri - Riau News (Pendaftaran)  Pekanbaru Riau",0.8571428571428571,-0.7142857142857143,Negative
+316,Sun Jun 23 03:04:58 +0000 2013,jalan sehat bersama  dan 50.000 masyarakat riau di kota pekanbaru.,0.5,0.5,Positive
+317,Fri Jul 10 18:05:17 +0000 2015,"kota pekanbaru kembali di selimuti asap dan indeks pengukur udara tertulis tidak sehat, asap dan asap lagi kota ku tercinta",0.5666666666666667,0.09999999999999998,Positive
+318,Sun Jan 19 01:23:08 +0000 2014,"RSJ Pekanbaru Siapkan Belasan Kamar Tampung Caleg Depresi: Rumah Sakit Jiwa (RSJ) Tampan di Kota Pekanbaru, Ri... ",0.6,0.2,Positive
+319,Thu Nov 15 00:50:27 +0000 2018,Yukk ikutan donor darah...!!! Sedekah kehidupan yang membuat kita pun tambah sehat... @ KSR PMI Unit Markas Kota PeÃ¢Â€Â¦ ,0.0,0.0,Neutral
+320,Thu Nov 20 13:38:04 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+321,Sat Aug 17 14:38:01 +0000 2019,Jadi aku tadi ketemu dua anak kecil di kota pekanbaru. Seperti di kebanyakan kota lainnya mereka jualan tisu gitu bÃ¢Â€Â¦ ,0.425,0.041666666666666664,Positive
+322,Wed Mar 12 01:55:53 +0000 2014,"Haha berita kabut asap ditvone kata pak dokter aja menyarankan tinggalkan kota pekanbaru dan kurangi aktivitas diluar -_-""",0.175,0.1,Positive
+323,Thu Jun 04 13:08:02 +0000 2020,"Sembuh, Pasien Terakhir Covid-19 Dilepas Tenaga Medis RSUD Selasih ",0.03333333333333333,0.0,Neutral
+324,Tue Jul 28 07:08:04 +0000 2015,"Perhatian-perhatian, Udara Kota Pekanbaru dalam Level Tidak Sehat ",0.7,-0.4,Negative
+325,Sat Sep 12 03:33:50 +0000 2015,Kabut asap d kota pekanbaru makin parah aja ... Masyarakat mulai terserang penyakit ispa,0.6,-0.4,Negative
+326,Fri Mar 20 11:53:06 +0000 2020,"Mama saya membeli jas hujan yang ada di Indomaret atau Alfamart sebagai APD nya untuk berkerja, apalagi ini puncakÃ¢Â€Â¦ ",1.0,0.0,Neutral
+327,Tue Mar 11 21:55:28 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+328,Tue Feb 18 10:43:41 +0000 2014,Kualitas Udara Kota Pekanbaru Tidak Sehat:  PEKANBARU (RIAUPOS.CO) - Udara Kota Pekanbaru dinyatakan Tidak Se... ,0.7,-0.4,Negative
+329,Tue Jul 16 09:16:08 +0000 2019,Wali Kota Pekanbaru Serahkan Jabatan Plt Kepala Dinkes ke M Amin yang Juga Kepala Disdalduk KBÃ¢Â€Â¦ ,0.0,0.0,Neutral
+330,Fri Aug 30 08:54:04 +0000 2013,"Cuaca Di Pekanbaru Tidak Sehat Akibat Kabut Asap: Pekanbaru, Riau Kualitas udara di kota Pekanbaru, Riau semak... ",0.5375,-0.2625,Negative
+331,Tue Jul 31 16:00:00 +0000 2018,"Pekanbaru Gelar Imunisasi Perdana Measles Rubella, Catat Lokasinya! beritaPKU ",0.3333333333333333,0.3125,Positive
+332,Thu Sep 22 06:40:59 +0000 2016,"NewsUpdate Gunakan Peralatan Tidak Sesuai Standar, Diskes Kota Pekanbaru Belum dapat Lapo...  MentionForFolBack",0.5,-0.25,Negative
+333,Tue Mar 11 22:58:25 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Biasa (KLB) yang warganya...",1.0,0.3333333333333333,Positive
+334,Tue Feb 10 04:35:36 +0000 2015,Enam Kecamatan di Kota Pekanbaru Endemis DBD  (inilahRIAU),0.0,0.0,Neutral
+335,Sat Jul 13 13:47:28 +0000 2019,"Bukannya membantu, malah asyik mengeluarkan gadget dan merekam aksi orang gila telanjang di atas mobilnya. Padahal,Ã¢Â€Â¦ ",0.5,0.05,Positive
+336,Thu Sep 11 08:09:08 +0000 2014," maaf dok, saya berasal dari luar kota pekanbaru,, ada rencana mau cek konsul sama dokter, Sabtu apakah dokter bukak praktek?",0.525,-0.25,Negative
+337,Mon Jul 04 09:38:28 +0000 2016,"Selama Lebaran, RS dan Puskesmas Harus Standby 24 Jam: Puskesmas dan rumah sakit di Kota Pekanbaru, tetap mem... ",0.0,0.0,Neutral
+338,Fri Oct 11 04:26:36 +0000 2013,"Anggota DPRD Pekanbaru Minta Proyek Puskesmas Pembantu Dihentikan Sementara: Legislator Kota Pekanbaru, Riau, ... ",0.0,0.0,Neutral
+339,Mon Jul 25 03:56:36 +0000 2016,"Mau sehat ? gampang dan praktis bisa dilakukan dirumah bersama ""Nikita Jogging"" cc _Pekanbaru ",0.6666666666666667,0.4666666666666667,Positive
+340,Tue Aug 14 14:42:23 +0000 2018,"Manfaatkan Fasilitas, Rumah Sakit Daerah Kota Pekanbaru Siap LayaniÃ‚Â Masyarakat",0.5,0.2,Positive
+341,Thu Apr 11 06:36:11 +0000 2019,"Alhamdulillah, kantin Ponpes Dar El Hikmah meraih Juara 2, perlombaan Kantin Sehat sekota Pekanbaru yang digagas olÃ¢Â€Â¦ ",0.0,0.0,Neutral
+342,Tue Sep 17 12:59:19 +0000 2019,"@_rikapratiwi  Korban ada dari mahasiswa kalau g salah 5 orang, malam ini masih dirawat di RSUD kota Pekanbaru,",0.0,0.0,Neutral
+343,Sun Apr 29 17:17:18 +0000 2018,"Jadi Salah Satu Penyakit Mematikan di Indonesia, Prodia Ajak Para Wanita di Kota Pekanbaru ... ",0.625,0.125,Positive
+344,Tue Mar 11 22:02:05 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Keja...  Antara News",0.0,0.0,Neutral
+345,Thu Apr 05 04:29:57 +0000 2018,73 Warga Pekanbaru Terserang DBD: KOTA ( - Dinas Kesehatan (Diskes) Kota PekanbaruÃ¢Â€Â¦Ã¢Â€Â¦ ,0.0,0.0,Neutral
+346,Wed Aug 08 08:51:42 +0000 2018,Imunisasi Vaksin MR Terancam Tak Capai Target ,0.0,0.0,Neutral
+347,Sun Nov 25 13:20:32 +0000 2018,Ditambah dinas di Rumah sakit yang shiftnya gak bisa di bayangkan udahÃ°ÂŸÂ‘Â€ belum lagi kaget pas tau shift di Rumah sakÃ¢Â€Â¦ ,0.8,-0.7,Negative
+348,Sat Jul 26 03:28:31 +0000 2014,Asap Karhutla Serbu Pekanbaru: Sejumlah warga Kota Pekanbaru mengaku menghirup udara yang tidak sehat karena b... ,0.5375,-0.2625,Negative
+349,Sun Mar 09 03:06:03 +0000 2014,"Udara Pekanbaru sangat tidak sehat akibat asap: Kualitas udara di Kota Pekanbaru kini dalam status ""Sangat Tid... ",0.5583333333333332,-0.215,Negative
+350,Sat Dec 15 02:53:51 +0000 2018,"Inilah kelakuan manusia2 yang tak mau bersaing secara sehat. Ini kejadian di Pekanbaru, terjadi perusakan APK di saÃ¢Â€Â¦ ",0.5,0.5,Positive
+351,Thu Nov 20 13:30:08 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+352,Fri Dec 06 02:42:41 +0000 2019,Ayo beramai2 masyarakat kota pekanbaru terkhusus buat ibu2 dan remaja putri jgn ketinggalan untuk mengikuti gerak jÃ¢Â€Â¦ ,0.5,0.03333333333333333,Positive
+353,Tue Feb 18 10:43:33 +0000 2014,(Riaupos) Kualitas Udara Kota Pekanbaru Tidak Sehat ,0.7,-0.4,Negative
+354,Sat Sep 14 10:54:34 +0000 2019,Assallamualaikum bapak Presiden yang sangat saya hormati sekiranya gambar berikut sudah sangat mewakilkan kabar kamÃ¢Â€Â¦ ,0.20000000000000004,0.13333333333333333,Positive
+355,Wed Sep 16 04:01:32 +0000 2020,Wali Kota Pekanbaru Bilang Ada Orang yang Positif Corona dan Tergolong Ã¢Â€ÂIntelekÃ¢Â€Â Datang ke Puskesmas tanpa Masker ,0.4727272727272727,0.2636363636363636,Positive
+356,Mon Sep 01 09:00:26 +0000 2014,DPRD Kota Pekanbaru Dukung Akreditasi Puskesmas  (HalloRiau),0.0,0.0,Neutral
+357,Mon Sep 09 12:20:29 +0000 2019,Tadi pagi kabut asap di kota Pekanbaru sgt tebal. Kualitas udara hampir saja memasuki kategori sangat tidak sehat lÃ¢Â€Â¦ ,0.7637499999999999,-0.45500000000000007,Negative
+358,Wed Nov 06 05:57:04 +0000 2019,50 Persen Lebih Peserta Mandiri di Kuansing Menunggak Bayar BPJS Kesehatan ,0.3125,0.25,Positive
+359,Tue Mar 11 23:02:28 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+360,Fri Jul 10 15:54:41 +0000 2015,Udara Kota Pekanbaru Mulai Tidak Sehat akibat Kabut Asap  infoKALTENG,0.5375,-0.2625,Negative
+361,Thu Jun 02 15:32:57 +0000 2016,Pembangunan RSUD Kota Pekanbaru Terkendala Anggaran  RiauPos,0.0,0.0,Neutral
+362,Thu Nov 20 13:37:10 +0000 2014,"Pekanbaru siagakan Puskesmas antisipasi banjir: Dinas Kesehatan Kota Pekanbaru, Provinsi Riau, telah menyiagak... ",0.0,0.0,Neutral
+363,Sun Jan 19 01:17:08 +0000 2014,"RSJ Pekanbaru Siapkan Belasan Kamar Tampung Caleg Depresi: Rumah Sakit Jiwa (RSJ) Tampan di Kota Pekanbaru, Ri... ",0.6,0.2,Positive
+364,Tue Feb 13 21:44:43 +0000 2018,Akhirnya Kota Pekanbaru Punya Rumah Sakit 'Sendiri': RSUD Kota Pekanbaru mengusung konsepÃ¢Â€Â¦ ,1.0,0.3,Positive
+365,Sun Jun 23 02:53:34 +0000 2013,Selamat pagi \(Ã‚Â´Ã¢Â–Â½`)/ Selamat Ulang Tahun Kota Pekanbaru ke-229 ! Semoga Asapnya cepet Berganti dengan Udara sehat seperti seharusnya yaa :),0.72,0.6066666666666667,Positive
+366,Wed Aug 26 04:09:02 +0000 2020,Wali Kota Pekanbaru Sebut 100 Orang Lebih Jalani Isolasi Mandiri di Rumah  ,0.3125,0.25,Positive
+367,Wed Nov 27 14:30:01 +0000 2019,Lanjutan Pembangunan Rumah Sakit Kelas C Kota Pekanbaru ,0.0,0.0,Neutral
+368,Mon Oct 03 12:30:12 +0000 2016,KPU: Dokter Sudah Bekerja Profesional dan KPU Sesuai Prosedur: Komisi Pemilihan Umum (KPU) Kota Pekanbaru men... ,0.3,0.07500000000000001,Positive
+369,Tue Mar 11 21:57:25 +0000 2014,"Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Biasa (KLB) yang warganya diserang pen... ",1.0,0.3333333333333333,Positive
+370,Wed Jan 01 06:40:28 +0000 2014,Bersama calon dokter masa depan . Xoxo happy new year (with Juan at Gereja HKBP Kota Pekanbaru) [pic] Ã¢Â€Â” ,0.5265151515151515,0.31212121212121213,Positive
+371,Thu Nov 14 06:32:05 +0000 2013,Just posted a photo @ Puskesmas Limapuluh Kota Pekanbaru ,0.0,0.0,Neutral
+372,Sun May 17 16:57:55 +0000 2015,"Air dirumah anda kuning,berminyak,kotor??? Ini solusinya...ZERNII FILTER AIR...terbukti menjadikan air bersih dan sehat",0.5,0.06666666666666668,Positive
+373,Tue Apr 24 11:11:58 +0000 2018,RSUD Tengku Rafian Siak Menuju Akreditasi SNARS  ,0.0,0.0,Neutral
+374,Mon Jul 15 08:49:37 +0000 2019,10 Penyakit Yang Diakibatkan Gaya Hidup Tak Sehat ,0.7,-0.4,Negative
+375,Mon Apr 14 00:42:35 +0000 2014,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+376,Sat Nov 01 04:01:34 +0000 2014,"Pemateri ketiga dr. Leny Marzal, Kepala Puskesmas Simpang Tiga Dinkes kota Pekanbaru ",0.0,0.0,Neutral
+377,Tue Mar 11 22:13:59 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
+378,Fri Apr 15 20:29:35 +0000 2016, BPJS Buka Layanan di Kantor BPTPM Kota Pekanbaru ,0.0,0.0,Neutral
+379,Wed Nov 06 00:52:31 +0000 2013,At Puskesmas Limapuluh Kota Pekanbaru Ã¢Â€Â” ,0.0,0.0,Neutral
+380,Wed Mar 27 09:50:02 +0000 2019,Bedah Bujubdan Bedah Akal Sehat  Bersama  Di Gor Tribuana Kota Pekanbaru - RiauÃ¢Â€Â¦ ,0.5,-0.3,Negative
+381,Mon May 07 16:45:55 +0000 2018,Kota Pekanbaru memiliki beberapa rumah sakit yang dikelola oleh pemerintah maupun swasta.,0.1875,0.0,Neutral
+382,Tue Apr 24 14:53:31 +0000 2018,RSUD Tengku Rafian Siak Menuju Akreditasi SNARS  ,0.0,0.0,Neutral
+383,Sat Sep 20 04:19:26 +0000 2014,Last day! Ã¢Â€Â” di Puskesmas Harapan Raya Kota Pekanbaru ,0.06666666666666667,0.0,Neutral
+384,Mon Nov 24 03:32:29 +0000 2014,"""_Pekanbaru: Bergelut dengan Geng Motor, Anggota TNI Kritis di Rumah Sakit  - TribunNews""&gt;COBA KALO DIMARKAS ?",0.8,0.0,Neutral
+385,Tue Mar 11 21:56:42 +0000 2014,"Pekanbaru KLB penyakit akibat asap: Kota Pekanbaru, Provinsi Riau, kini tercatat berada dalam Kejadian Luar Bi... ",0.0,0.0,Neutral
